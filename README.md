@@ -2,7 +2,7 @@
 
 ## To install
 
-- Install MongoDB and run
+- Install MongoDB and run in git
 - Confirm installation of dependencies like GTFS and react-map-gl after npm install
 - This project was created using Node version 10.15.3
 
