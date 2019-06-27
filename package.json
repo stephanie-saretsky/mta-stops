@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-tutorial",
+  "name": "transit-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev": "concurrently 'npm start' 'nodemon backend/server.js'"
   },
   "keywords": [],
-  "author": "Jacques Le Normand",
+  "author": "Stephanie Saretsky",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.2.2",
