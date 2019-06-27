@@ -1,11 +1,11 @@
 # mta-stops
 
-##To install:
+## To install:
 
 - Install MongoDB and run
 - Confirm installation of dependencies like GTFS and react-map-gl after npm install
 
-##Launch command: npm run dev
+## Launch command: npm run dev
 
 You will find the project running at http://localhost:3000
 
