@@ -1,0 +1,33 @@
+body {
+  background-color: #bbb;
+  margin: 0;
+}
+
+.bar {
+  position: relative;
+  align-items: center;
+  border-bottom: 0.1px solid #969696;
+  height: 60px;
+  background-color: white;
+  padding: 0px 10px;
+}
+
+.nav-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 4.5%;
+  font-family: "Forum", cursive;
+  font-size: 40px;
+}
+
+.logo {
+  height: 45px;
+  padding-top: 0.5%;
+}
+
+.map {
+  left: 50%;
+}
